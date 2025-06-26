@@ -1,1 +1,8 @@
 just some text, lol :O
+
+Some functions:
+1) count
+2) read
+3) speak
+4) sing
+5) run
