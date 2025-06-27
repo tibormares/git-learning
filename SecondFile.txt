@@ -1,5 +1,3 @@
-just some text, lol :O
-
 Some functions:
 1) count
 2) read
