@@ -1,11 +1,5 @@
 Hello World -> edited.
-Exit program lol.
-Third line.
 I AM TEXT FROM GITHUB WEBSITE.
 Another line.
-
-blablabla
-
-some changes...
 
 It's raining! Finally, it won't be so hot outside! RAIN!!!!!!
