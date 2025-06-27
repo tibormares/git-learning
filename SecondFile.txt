@@ -12,3 +12,7 @@ I don't know what I should write here.
 Car is fast.
 Car is black.
 Car is Toyota.
+
+Motorbike is very fast.
+Motorbike is grey.
+Motorbike is Yamaha.
