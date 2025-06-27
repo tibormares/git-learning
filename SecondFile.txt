@@ -8,7 +8,7 @@ Some functions:
 5) run
 
 
-I don't know what I should write here.
+I don't know what I should write here. So I will just write here something... :O
 Car is fast.
 Car is black.
 Car is Toyota.
