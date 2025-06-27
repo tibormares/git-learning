@@ -7,3 +7,5 @@ Another line.
 blablabla
 
 some changes...
+
+It's raining! Finally, it won't be so hot outside!
