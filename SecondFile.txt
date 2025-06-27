@@ -6,3 +6,9 @@ Some functions:
 3) speak
 4) sing
 5) run
+
+
+I don't know what I should write here.
+Car is fast.
+Car is black.
+Car is Toyota.
